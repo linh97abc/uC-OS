@@ -1,0 +1,20 @@
+Fitter Status : Successful - Wed Sep 01 12:34:57 2021
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : DE0_CV_SDRAM_Nios_Test
+Top-level Entity Name : DE0_CV_SDRAM_Nios_Test
+Family : Cyclone V
+Device : 5CEBA4F23C7
+Timing Models : Final
+Logic utilization (in ALMs) : 1,842 / 18,480 ( 10 % )
+Total registers : 2990
+Total pins : 206 / 224 ( 92 % )
+Total virtual pins : 0
+Total block memory bits : 1,089,984 / 3,153,920 ( 35 % )
+Total RAM Blocks : 144 / 308 ( 47 % )
+Total DSP Blocks : 2 / 66 ( 3 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 4 ( 25 % )
+Total DLLs : 0 / 4 ( 0 % )
